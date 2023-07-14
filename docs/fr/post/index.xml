@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Aymeric Roucher</title>
-        <link>https://a-roucher.github.io/fr/post/</link>
+        <link>https://alafun.github.io/fr/post/</link>
         <description>Recent content in Posts on Aymeric Roucher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alafun.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>La nouvelle Politique Agricole Commune</title>
-        <link>https://a-roucher.github.io/fr/p/la-nouvelle-politique-agricole-commune/</link>
+        <link>https://alafun.github.io/fr/p/la-nouvelle-politique-agricole-commune/</link>
         <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/fr/p/la-nouvelle-politique-agricole-commune/</guid>
-        <description>&lt;img src="https://a-roucher.github.io/fr/p/la-nouvelle-politique-agricole-commune/fields_from_above.jpg" alt="Featured image of post La nouvelle Politique Agricole Commune" /&gt;&lt;p&gt;La prochaine itération de la Politique Agricole Commune (PAC) a été &lt;a class=&#34;link&#34; href=&#34;https://www.consilium.europa.eu/en/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://alafun.github.io/fr/p/la-nouvelle-politique-agricole-commune/</guid>
+        <description>&lt;img src="https://alafun.github.io/fr/p/la-nouvelle-politique-agricole-commune/fields_from_above.jpg" alt="Featured image of post La nouvelle Politique Agricole Commune" /&gt;&lt;p&gt;La prochaine itération de la Politique Agricole Commune (PAC) a été &lt;a class=&#34;link&#34; href=&#34;https://www.consilium.europa.eu/en/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;approuvée en Décembre 2021&lt;/a&gt; au terme de trois ans d&amp;rsquo;âpres discussions entre gouvernements de l&amp;rsquo;Union Européenne: elle entrera en vigueur en 2023, et sera effective jusqu&amp;rsquo;à 2027. Chaque année, elle mobilisera 30% du budget de l&amp;rsquo;UE. Alors, à quoi servé-ce encore que cette dépense-là ?&lt;/p&gt;
 &lt;h1 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h1&gt;
 &lt;p&gt;Voilà tous les objectifs de la PAC.&lt;/p&gt;
@@ -162,11 +162,11 @@ Plotly.d3.json(&#34;country_balance_fr.json&#34;, function(err, fig) {
         </item>
         <item>
         <title>Le vignoble bordelais sèchera-t-il demain ?</title>
-        <link>https://a-roucher.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/</link>
+        <link>https://alafun.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/</link>
         <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/</guid>
-        <description>&lt;img src="https://a-roucher.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/Bordeaux-France.jpg" alt="Featured image of post Le vignoble bordelais sèchera-t-il demain ?" /&gt;&lt;p&gt;En 2013, une &lt;a class=&#34;link&#34; href=&#34;https://www.pnas.org/doi/10.1073/pnas.1210127110&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://alafun.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/</guid>
+        <description>&lt;img src="https://alafun.github.io/fr/p/le-vignoble-bordelais-s%C3%A8chera-t-il-demain/Bordeaux-France.jpg" alt="Featured image of post Le vignoble bordelais sèchera-t-il demain ?" /&gt;&lt;p&gt;En 2013, une &lt;a class=&#34;link&#34; href=&#34;https://www.pnas.org/doi/10.1073/pnas.1210127110&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;étude américaine menée par le professeur Lee Hannah&lt;/a&gt; a fait grand bruit : la température moyenne en climat méditerranéen dépassant de plus en plus les besoins de la vigne, de grandes zones deviendraient impropres à la viticulture dans les quarante années suivantes, en particulier sur le pourtour méditerrannéen. Alors, nos vignobles sont-ils condamnés ?&lt;/p&gt;
 &lt;h2 id=&#34;chaleur-et-vigne&#34;&gt;Chaleur et vigne&lt;/h2&gt;
 &lt;p&gt;Afin de mieux comprendre les enjeux du réchauffement climatique pour la viticulture, intéressons nous d&amp;rsquo;abord au cycle de production d&amp;rsquo;un millésime.&lt;/p&gt;

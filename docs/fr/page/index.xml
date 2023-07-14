@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Aymeric Roucher</title>
-        <link>https://a-roucher.github.io/fr/page/</link>
+        <link>https://alafun.github.io/fr/page/</link>
         <description>Recent content in Pages on Aymeric Roucher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/fr/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alafun.github.io/fr/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://a-roucher.github.io/fr/archives/</link>
+        <link>https://alafun.github.io/fr/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/fr/archives/</guid>
+        <guid>https://alafun.github.io/fr/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>A propos</title>
-        <link>https://a-roucher.github.io/fr/a-propos/</link>
+        <link>https://alafun.github.io/fr/a-propos/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/fr/a-propos/</guid>
+        <guid>https://alafun.github.io/fr/a-propos/</guid>
         <description>&lt;p&gt;Je suis un Data scientist dans la start-up d&amp;rsquo;assurance climatique Descartes Underwriting.&lt;/p&gt;
 &lt;p&gt;Auparavant, j&amp;rsquo;ai suivi le cursus ingénieur à Polytechnique ⚔️ avec une spécialisation en informatique - science des données, et j&amp;rsquo;ai fini mon parcours par un master à Cambridge 🇬🇧. Voir mon &lt;a class=&#34;link&#34; href=&#34;CV_AymericRoucher_03-22.pdf&#34; &gt;Curriculum Vitae&lt;/a&gt; pour plus de d´étails.&lt;/p&gt;
 &lt;h3 id=&#34;descartes&#34;&gt;Descartes&lt;/h3&gt;
@@ -27,7 +27,7 @@
     &gt;Descartes&lt;/a&gt; est une start-up en pleine croissance, qui fournit des assurances dans le monde entier contre les risques climatiques : cyclones, feux de forêt, tremblements de terre, sécheresse&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Le réchauffement climatique est en fait un grand dérèglement du climat : il augmente généralement la fréquence des catastrophes naturelles. De ce fait, les pertes économiques augmentent, et les pertes non-assurées explosent.
 Descartes a pour mission de fournir un matelas financier contre les risques climatiques.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://a-roucher.github.io/fr/a-propos/sigma-2-2020-figure-15-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://alafun.github.io/fr/a-propos/sigma-2-2020-figure-15-1.png&#34;
 	width=&#34;1334&#34;
 	height=&#34;739&#34;
 	
@@ -51,10 +51,10 @@ L&amp;rsquo;entreprise croît rapidement : nous étions une trentaine à mon arr
         </item>
         <item>
         <title>Rechercher</title>
-        <link>https://a-roucher.github.io/fr/search/</link>
+        <link>https://alafun.github.io/fr/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/fr/search/</guid>
+        <guid>https://alafun.github.io/fr/search/</guid>
         <description></description>
         </item>
         

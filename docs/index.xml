@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Aymeric Roucher</title>
-        <link>https://a-roucher.github.io/</link>
+        <link>https://alafun.github.io/</link>
         <description>Recent content on Aymeric Roucher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alafun.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The new Common Agricultural Policy</title>
-        <link>https://a-roucher.github.io/p/the-new-common-agricultural-policy/</link>
+        <link>https://alafun.github.io/p/the-new-common-agricultural-policy/</link>
         <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/p/the-new-common-agricultural-policy/</guid>
-        <description>&lt;img src="https://a-roucher.github.io/p/the-new-common-agricultural-policy/fields_from_above.jpg" alt="Featured image of post The new Common Agricultural Policy" /&gt;&lt;p&gt;The next iteration of the Common Agricultural Policy (CAP) was &lt;a class=&#34;link&#34; href=&#34;https://www.consilium.europa.eu/en/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://alafun.github.io/p/the-new-common-agricultural-policy/</guid>
+        <description>&lt;img src="https://alafun.github.io/p/the-new-common-agricultural-policy/fields_from_above.jpg" alt="Featured image of post The new Common Agricultural Policy" /&gt;&lt;p&gt;The next iteration of the Common Agricultural Policy (CAP) was &lt;a class=&#34;link&#34; href=&#34;https://www.consilium.europa.eu/en/policies/cap-introduction/cap-future-2020-common-agricultural-policy-2023-2027/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;approved in December 2021&lt;/a&gt; after three years of tough discussions between EU governments: it will come into force in 2023, and will be effective until 2027. Each year, it will mobilize 30% of the EU budget. So, what is the use of this expenditure?&lt;/p&gt;
 &lt;h1 id=&#34;objectives&#34;&gt;Objectives&lt;/h1&gt;
 &lt;p&gt;These are all the objectives of the CAP.&lt;/p&gt;
@@ -162,11 +162,11 @@ Plotly.d3.json(&#34;country_balance_en.json&#34;, function(err, fig) {
         </item>
         <item>
         <title>Will the Bordeaux vineyard dry up tomorrow?</title>
-        <link>https://a-roucher.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/</link>
+        <link>https://alafun.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/</link>
         <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/</guid>
-        <description>&lt;img src="https://a-roucher.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/Bordeaux-France.jpg" alt="Featured image of post Will the Bordeaux vineyard dry up tomorrow?" /&gt;&lt;p&gt;In 2013, an &lt;a class=&#34;link&#34; href=&#34;https://www.pnas.org/doi/10.1073/pnas.1210127110&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://alafun.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/</guid>
+        <description>&lt;img src="https://alafun.github.io/p/will-the-bordeaux-vineyard-dry-up-tomorrow/Bordeaux-France.jpg" alt="Featured image of post Will the Bordeaux vineyard dry up tomorrow?" /&gt;&lt;p&gt;In 2013, an &lt;a class=&#34;link&#34; href=&#34;https://www.pnas.org/doi/10.1073/pnas.1210127110&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;American study led by Professor Lee Hannah&lt;/a&gt; made a big splash: the average temperature in the Mediterranean climate increasingly exceeding the needs of the vine, large areas would become unfit for viticulture in the next forty years, especially on the Mediterranean rim. So, are our vineyards doomed?&lt;/p&gt;
 &lt;h2 id=&#34;heat-and-vines&#34;&gt;Heat and vines&lt;/h2&gt;
 &lt;p&gt;In order to better understand the stakes of global warming for viticulture, let&amp;rsquo;s first look at the production cycle of a vintage.&lt;/p&gt;
@@ -212,25 +212,25 @@ Other dangers intensified by warming will increasingly threaten vineyards: for e
         </item>
         <item>
         <title>Archives</title>
-        <link>https://a-roucher.github.io/archives/</link>
+        <link>https://alafun.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/archives/</guid>
+        <guid>https://alafun.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://a-roucher.github.io/about/</link>
+        <link>https://alafun.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/about/</guid>
+        <guid>https://alafun.github.io/about/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m a Data scientist, working at the scale-up Descartes Underwriting.&lt;/p&gt;
 &lt;p&gt;Earlier, I&amp;rsquo;ve been a student in Computer science at Ecole Polytechnique ⚔️ and I graduated in 2021 from University of Cambridge 👨‍🎓. See my &lt;a class=&#34;link&#34; href=&#34;CV_AymericRoucher_03-22.pdf&#34; &gt;Curriculum Vitae&lt;/a&gt; for greater detail.&lt;/p&gt;
 &lt;h3 id=&#34;descartes&#34;&gt;Descartes&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.descartesunderwriting.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Descartes&lt;/a&gt; is a fast-growing french Insurtech, providing insurance against climate risks (cyclones, frost, wildfires&amp;hellip;) to a global set of clients.&lt;/p&gt;
 &lt;p&gt;Climate change would be better named Climate disruption: it causes a sharp increase in weather-related catastrophes. As a result, insured losses are growing, non-insured losses are exploding. We&amp;rsquo;re here to fill the coverage gap.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://a-roucher.github.io/about/sigma-2-2020-figure-15-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://alafun.github.io/about/sigma-2-2020-figure-15-1.png&#34;
 	width=&#34;1334&#34;
 	height=&#34;739&#34;
 	
@@ -254,10 +254,10 @@ Other dangers intensified by warming will increasingly threaten vineyards: for e
         </item>
         <item>
         <title>Search</title>
-        <link>https://a-roucher.github.io/search/</link>
+        <link>https://alafun.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/search/</guid>
+        <guid>https://alafun.github.io/search/</guid>
         <description></description>
         </item>
         

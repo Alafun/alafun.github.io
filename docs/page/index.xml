@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Aymeric Roucher</title>
-        <link>https://a-roucher.github.io/page/</link>
+        <link>https://alafun.github.io/page/</link>
         <description>Recent content in Pages on Aymeric Roucher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://a-roucher.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alafun.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://a-roucher.github.io/archives/</link>
+        <link>https://alafun.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/archives/</guid>
+        <guid>https://alafun.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://a-roucher.github.io/about/</link>
+        <link>https://alafun.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/about/</guid>
+        <guid>https://alafun.github.io/about/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m a Data scientist, working at the scale-up Descartes Underwriting.&lt;/p&gt;
 &lt;p&gt;Earlier, I&amp;rsquo;ve been a student in Computer science at Ecole Polytechnique ⚔️ and I graduated in 2021 from University of Cambridge 👨‍🎓. See my &lt;a class=&#34;link&#34; href=&#34;CV_AymericRoucher_03-22.pdf&#34; &gt;Curriculum Vitae&lt;/a&gt; for greater detail.&lt;/p&gt;
 &lt;h3 id=&#34;descartes&#34;&gt;Descartes&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.descartesunderwriting.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Descartes&lt;/a&gt; is a fast-growing french Insurtech, providing insurance against climate risks (cyclones, frost, wildfires&amp;hellip;) to a global set of clients.&lt;/p&gt;
 &lt;p&gt;Climate change would be better named Climate disruption: it causes a sharp increase in weather-related catastrophes. As a result, insured losses are growing, non-insured losses are exploding. We&amp;rsquo;re here to fill the coverage gap.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://a-roucher.github.io/about/sigma-2-2020-figure-15-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://alafun.github.io/about/sigma-2-2020-figure-15-1.png&#34;
 	width=&#34;1334&#34;
 	height=&#34;739&#34;
 	
@@ -50,10 +50,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://a-roucher.github.io/search/</link>
+        <link>https://alafun.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://a-roucher.github.io/search/</guid>
+        <guid>https://alafun.github.io/search/</guid>
         <description></description>
         </item>
         
