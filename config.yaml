@@ -24,30 +24,6 @@ permalinks:
   post: /p/:slug/
   page: /:slug/
 
-languages:
-  en:
-    languageName: English
-    weight: 1
-    subtitle: "EN"
-    sidebar:
-      subtitle: "Climate data science."
-      emoji: 🌍
-      avatar:
-        enabled: false
-        local: true
-        src: "/img/mugshot.png"
-  fr:
-    languageName: Français
-    weight: 2
-    subtitle: "FR"
-    sidebar:
-      subtitle: "Du climat, des données."
-      emoji: 🌍
-      avatar:
-        enabled: false
-        local: true
-        src: "/img/mugshot.png"
-
 params:
   mainSections:
     - post
